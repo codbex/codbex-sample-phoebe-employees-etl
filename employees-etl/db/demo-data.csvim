@@ -1,0 +1,17 @@
+{
+    "datasource": "demo-postgre",
+    "files": [
+        {
+            "table": "source_employees",
+            "schema": "public",
+            "file": "/employees-etl/db/source_employees.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": "1.0",
+            "upsert": false
+        }
+    ]
+}

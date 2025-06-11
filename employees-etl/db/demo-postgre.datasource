@@ -1,0 +1,8 @@
+{
+    "location": "/employees-etl/db/demo-postgre.datasource",
+    "name": "demo-postgre",
+    "driver": "org.postgresql.Driver",
+    "url": "jdbc:postgresql://postgres:5432/postgres",
+    "username": "postgres",
+    "password": "postgres"
+} 

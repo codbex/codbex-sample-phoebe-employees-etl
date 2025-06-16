@@ -1,5 +1,5 @@
 {
-    "datasource": "demo-postgre",
+    "datasource": "AIRFLOW_DB",
     "schema": {
         "structures": [
             {

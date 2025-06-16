@@ -16,10 +16,10 @@ from tasks.load_task import load
 
 # database configuration (hardcoded)
 DB_CONFIG = {
-    "host": "postgres",
-    "database": "postgres",
-    "user": "postgres",
-    "password": "postgres",
+    "host": "phoebe-service",
+    "database": "airflow_db",
+    "user": "f392b377-0416-4f1a-a4fa-2b122f3253df",
+    "password": "285de0ec-9687-4d0f-9339-c86da527e474",
     "port": 5432
 }
 
